@@ -5,3 +5,5 @@
 ความสามารถในด้านอื่นๆ เช่น การออกแบบ, การพัฒนาเว็บไซต์, การเรียนรู้เกี่ยวกับเทรนด์ AI, การพัฒนาเกม, UX, UI และการพัฒนาซอฟต์แวร์บนอุปกรณ์เคลื่อนที่
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owenwa348)](https://github.com/anuraghazra/github-readme-stats)
+
+
